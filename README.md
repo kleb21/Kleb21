@@ -1,6 +1,6 @@
 # Hey! I'm Caleb and here you can read somethings about me :muscle:
 
-- :brain:  Actually i'm studying software development engineering and also I'm triying to improve differents skill by my own.
+- :brain:  Currently I'm studying software development engineering and also I'm triying to improve differents skills by my own.
 - :bomb:   In my free times I usually play video games, listen music or watch videos about programming/hardware/videogames.
 - :dart:   FullStack developer in process...
 
